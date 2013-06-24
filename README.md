@@ -34,6 +34,7 @@
 
 * https://github.com/collectiveidea/delayed_job
 * https://github.com/resque/resque
+* https://github.com/mperham/sidekiq
 * https://github.com/javan/whenever Cron Job
 
 **Deploy**
