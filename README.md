@@ -1,6 +1,6 @@
 Please vote this bookmark if you use hacknews:
 * https://news.ycombinator.com/item?id=5938749
-* http://www.reddit.com/r/programming/comments/1h169n/a_large_list_of_ruby_development_resources/
+* http://redd.it/1h169n
 
 # Ruby Development Bookmarks
 
