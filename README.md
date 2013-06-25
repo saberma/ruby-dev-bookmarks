@@ -59,6 +59,7 @@ Please vote this bookmark if you use hacknews:
 * http://rubydoc.info/docs/rails/3.2.8/frames
 * http://apidock.com/ruby
 * http://apidock.com/rails
+* http://railsapi.com/
 
 **Test**
 
