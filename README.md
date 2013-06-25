@@ -65,6 +65,11 @@ Please vote this bookmark if you use hacknews:
 
 * https://www.relishapp.com/rspec/rspec-core/docs
 
+#### Tools
+
+http://rubular.com a Ruby regular expression editor
+
+
 ## Learn
 
 #### Book
