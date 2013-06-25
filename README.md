@@ -87,6 +87,11 @@ http://tryruby.org Try Ruby Online
 
 * http://railsapps.github.io/
 
+#### Video
+
+* http://railscasts.com/
+* http://railscasts-china.com/ (China)
+
 #### Online Training
 
 * http://railsbest.com/
@@ -97,11 +102,6 @@ http://tryruby.org Try Ruby Online
 * http://rails-bestpractices.com/
 * http://betterspecs.org/
 * https://practicingruby.com/ ($8/month)
-
-#### Video
-
-* http://railscasts.com/
-* http://railscasts-china.com/ (China)
 
 #### Code Style
 
