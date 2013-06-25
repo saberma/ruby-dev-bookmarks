@@ -90,12 +90,14 @@ http://tryruby.org Try Ruby Online
 #### Video
 
 * http://railscasts.com/
-* http://railscasts-china.com/ (China)
+* http://railscasts-china.com/ (Chinese)
+* https://peepcode.com/screencasts/ruby-on-rails
 
 #### Online Training
 
 * http://railsbest.com/
 * http://www.codeschool.com/paths/ruby
+* http://www.codecademy.com/tracks/ruby
 
 #### Best Practise
 
