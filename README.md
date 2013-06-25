@@ -110,7 +110,9 @@ Please vote this bookmark if you use hacknews:
 
 #### Forum
 
+* http://www.ruby-forum.com/
 * http://ruby-china.org (Chinese)
+* http://ruby-taiwan.org (Taiwan)
 
 ## Open Source
 
