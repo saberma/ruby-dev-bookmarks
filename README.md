@@ -126,6 +126,11 @@ http://tryruby.org Try Ruby Online
 * http://ruby-china.org (Chinese)
 * http://ruby-taiwan.org (Taiwan)
 
+## Jobs
+
+* http://jobs.37signals.com/jobs/search?term=ruby
+* https://jobs.github.com/positions?description=ruby
+
 ## Open Source
 
 * http://www.opensourcerails.com
