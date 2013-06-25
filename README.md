@@ -33,6 +33,7 @@ Please vote this bookmark if you use hacknews:
 **Settings**
 
 * https://github.com/binarylogic/settingslogic
+* https://github.com/bkeepers/dotenv
 
 **Background Jobs**
 
