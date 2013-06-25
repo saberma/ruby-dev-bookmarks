@@ -1,3 +1,7 @@
+Please vote this bookmark if you use hacknews:
+* https://news.ycombinator.com/item?id=5938749
+* http://www.reddit.com/r/programming/comments/1h169n/a_large_list_of_ruby_development_resources/
+
 # Ruby Development Bookmarks
 
 ## Reference
@@ -14,7 +18,7 @@
 
 * https://github.com/jnicklas/capybara
 * https://github.com/rspec/rspec-core
-* http://github.com/thoughtbot/factory_girl
+* https://github.com/thoughtbot/factory_girl
 
 **Authentication**
 
@@ -106,7 +110,7 @@
 
 #### Forum
 
-* http://ruby-china.org (China)
+* http://ruby-china.org (Chinese)
 
 ## Open Source
 
@@ -114,7 +118,7 @@
 * https://github.com/diaspora/diaspora
 * https://github.com/fredwu/angel_nest
 
-#### China
+#### Chinese
 
 * https://github.com/ruby-china/ruby-china
 * https://github.com/saberma/shopqi
