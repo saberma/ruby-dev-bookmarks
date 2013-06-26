@@ -19,6 +19,7 @@ Please vote this bookmark if you use hacknews:
 * https://github.com/jnicklas/capybara
 * https://github.com/rspec/rspec-core
 * https://github.com/thoughtbot/factory_girl
+* https://github.com/paulelliott/fabrication
 
 **Authentication**
 
