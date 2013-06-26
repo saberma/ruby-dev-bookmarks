@@ -27,6 +27,8 @@
         + [Whenever](https://github.com/javan/whenever) Cron Job
     + Deploy
         + [Capistrano](https://github.com/capistrano/capistrano)
+    + Framework
+        + [Sinatra](http://www.sinatrarb.com/)
     + HTML parser
         + [Nokogiri](https://github.com/sparklemotion/nokogiri) HTML, XML & RSS parser
 
