@@ -119,6 +119,7 @@ http://tryruby.org Try Ruby Online
 * http://rubyweekly.com/
 * http://ruby5.envylabs.com/ Ruby5 - The latest news in the Ruby and Rails community
 * http://www.rubyinside.com/
+* http://rubydaily.org/
 
 #### Blog
 
