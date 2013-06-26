@@ -1,7 +1,3 @@
-Please vote this bookmark if you use hacknews:
-* https://news.ycombinator.com/item?id=5938749
-* http://redd.it/1h169n
-
 # Ruby Development Bookmarks
 
 ## Reference
@@ -46,9 +42,9 @@ Please vote this bookmark if you use hacknews:
 
 * https://github.com/capistrano/capistrano
 
-**Parser**
+**HTML parser**
 
-* https://github.com/sparklemotion/nokogiri
+* https://github.com/sparklemotion/nokogiri HTML, XML & RSS parser
 
 #### Documents
 
