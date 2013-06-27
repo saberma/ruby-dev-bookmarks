@@ -81,6 +81,12 @@
 + Deploy
     + [Heroku](https://www.heroku.com)
 
+## How To
+
++ Create a Gem
+    + [RubyGems Guides - Make your own gem](http://guides.rubygems.org/make-your-own-gem/)
+    + [Railscasts - New Gem with Bundler [Video], ](http://railscasts.com/episodes/245-new-gem-with-bundler) [[ASCIIcast]](http://railscasts.com/episodes/245-new-gem-with-bundler?view=asciicast)
+
 ## News
 
 + Site
