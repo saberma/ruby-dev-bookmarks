@@ -31,7 +31,8 @@
     + Deploy
         + [Capistrano](https://github.com/capistrano/capistrano)
     + Framework
-        + [Sinatra](http://www.sinatrarb.com/)
+        + [Sinatra](http://www.sinatrarb.com/) Classy web-development dressed in a DSL
+        + [Padriro](http://www.padrinorb.com/) The Elegant Ruby Web Framework
     + HTML parser
         + [Nokogiri](https://github.com/sparklemotion/nokogiri) HTML, XML & RSS parser
 
