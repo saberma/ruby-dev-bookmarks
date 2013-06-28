@@ -95,6 +95,7 @@
     + [RubyGems Guides - Make your own gem](http://guides.rubygems.org/make-your-own-gem/)
     + [Railscasts - New Gem with Bundler [Video], ](http://railscasts.com/episodes/245-new-gem-with-bundler) [[ASCIIcast]](http://railscasts.com/episodes/245-new-gem-with-bundler?view=asciicast)
     + [Developing a RubyGem using Bundler, with Rspec](https://github.com/radar/guides/blob/master/gem-development.md)
+    + [Using Ore to create a Gem](http://postmodern.github.io/2012/05/20/you-dont-have-to-use-bundler-to-create-new-rubygems.html)
 
 ## News
 
