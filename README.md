@@ -58,6 +58,7 @@
 + Book
     + [Programming Ruby](http://pragprog.com/book/ruby/programming-ruby)
     + [Agile Web Development With Rails 4](http://pragprog.com/book/rails4/agile-web-development-with-rails-4)
+    + [Design Patterns in Ruby](http://www.amazon.com/gp/product/0321490452) [[code]](https://github.com/russolsen/design_patterns_in_ruby_code)
     + [Ruby on Rails Tutorial](http://ruby.railstutorial.org/)
 
 + Tutorial
