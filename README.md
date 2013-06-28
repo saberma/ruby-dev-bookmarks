@@ -13,7 +13,8 @@
         + [Fabrication](https://github.com/paulelliott/fabrication)
     + Authentication
         + [Devise](https://github.com/plataformatec/devise)
-        + [Cancan](https://github.com/ryanb/cancan) Role Authorization
+        + [Cancan](https://github.com/ryanb/cancan) restricts what resources a given user is allowed to access
+        + [OmniAuth](https://github.com/intridea/omniauth) Standardized Multi-Provider Authentication
     + View
         + [Slim](https://github.com/slim-template/slim)
         + [Haml](https://github.com/haml/haml)
