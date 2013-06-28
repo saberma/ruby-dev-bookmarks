@@ -20,6 +20,7 @@
     + View
         + [Slim](https://github.com/slim-template/slim)
         + [Haml](https://github.com/haml/haml)
+        + [Lquid](https://github.com/Shopify/liquid) Liquid markup language. Safe, customer facing template language for flexible web apps.
     + Settings
         + [SettingsLogic](https://github.com/binarylogic/settingslogic)
         + [Dotenv](https://github.com/bkeepers/dotenv)
@@ -28,6 +29,8 @@
         + [Resque](https://github.com/resque/resque)
         + [Sidekiq](https://github.com/mperham/sidekiq)
         + [Whenever](https://github.com/javan/whenever) Cron Job
+    + Payments
+        + [ActiveMerchant](https://github.com/Shopify/active_merchant) a simple payment abstraction library extracted from Shopify
     + Deploy
         + [Capistrano](https://github.com/capistrano/capistrano)
     + Framework
