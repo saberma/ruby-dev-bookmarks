@@ -89,6 +89,7 @@
 + Create a Gem
     + [RubyGems Guides - Make your own gem](http://guides.rubygems.org/make-your-own-gem/)
     + [Railscasts - New Gem with Bundler [Video], ](http://railscasts.com/episodes/245-new-gem-with-bundler) [[ASCIIcast]](http://railscasts.com/episodes/245-new-gem-with-bundler?view=asciicast)
+    + [Developing a RubyGem using Bundler, with Rspec](https://github.com/radar/guides/blob/master/gem-development.md)
 
 ## News
 
