@@ -1,5 +1,7 @@
 # Ruby Development Bookmarks
 
+[QUICKLY EDIT: add your favorite ruby bookmarks](https://github.com/saberma/ruby-dev-bookmarks/edit/master/README.md)
+
 ## Reference
 
 + Popular Gems
