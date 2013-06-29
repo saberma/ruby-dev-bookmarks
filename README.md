@@ -38,6 +38,8 @@
         + [Padriro](http://www.padrinorb.com/) The Elegant Ruby Web Framework
     + HTML parser
         + [Nokogiri](https://github.com/sparklemotion/nokogiri) HTML, XML & RSS parser
+    + Security
+        + [Hakiri](https://github.com/vasinov/hakiri_cli) Secure Rails with Hakiri
 
 + Documents
     + [Rails Guide](http://guides.rubyonrails.org/)
@@ -53,7 +55,7 @@
 + Tools
     + [Rubular](http://rubular.com) a Ruby regular expression editor
 
-## Learn
+## Learning
 
 + Hello World
     + [Try Ruby Online](http://tryruby.org)
@@ -86,8 +88,11 @@
     + [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
     + [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 
-+ Deploy
-    + [Heroku](https://www.heroku.com)
+## Deployment
+
++ [Heroku](https://www.heroku.com) Cloud Application Platform
++ [Hakiri](https://www.hakiriup.com/) Cloud Security Platform
++ [New Relic](http://newrelic.com/) Application Performance Management & Monitoring
 
 ## How To
 
