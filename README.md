@@ -13,6 +13,7 @@
         + [Rspec](https://github.com/rspec/rspec-core)
         + [FactoryGirl](https://github.com/thoughtbot/factory_girl)
         + [Fabrication](https://github.com/paulelliott/fabrication)
+        + [Appraisal](https://github.com/thoughtbot/appraisal) testing your library against different versions of dependencies.
     + Authentication
         + [Devise](https://github.com/plataformatec/devise)
         + [Cancan](https://github.com/ryanb/cancan) restricts what resources a given user is allowed to access
