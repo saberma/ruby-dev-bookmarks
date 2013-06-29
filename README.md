@@ -16,6 +16,7 @@
         + [Appraisal](https://github.com/thoughtbot/appraisal) testing your library against different versions of dependencies.
     + Authentication
         + [Devise](https://github.com/plataformatec/devise)
+        + [Clearance](https://github.com/thoughtbot/clearance) Rails authentication with email & password
         + [Cancan](https://github.com/ryanb/cancan) restricts what resources a given user is allowed to access
         + [OmniAuth](https://github.com/intridea/omniauth) Standardized Multi-Provider Authentication
     + View
