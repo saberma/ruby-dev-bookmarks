@@ -42,6 +42,8 @@
         + [Nokogiri](https://github.com/sparklemotion/nokogiri) HTML, XML & RSS parser
     + Security
         + [Hakiri](https://github.com/vasinov/hakiri_cli) Secure Rails with Hakiri
+    + Upload
+        + [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
 
 + Documents
     + [Rails Guide](http://guides.rubyonrails.org/)
