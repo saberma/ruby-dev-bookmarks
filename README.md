@@ -40,6 +40,8 @@
         + [Padriro](http://www.padrinorb.com/) The Elegant Ruby Web Framework
     + HTML parser
         + [Nokogiri](https://github.com/sparklemotion/nokogiri) HTML, XML & RSS parser
+    + Pagination
+        + [Kaminari](https://github.com/amatsuda/kaminari) A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3
     + Security
         + [Hakiri](https://github.com/vasinov/hakiri_cli) Secure Rails with Hakiri
     + Upload
