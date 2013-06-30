@@ -122,6 +122,7 @@
     + [RubyDaily](http://rubydaily.org/)
 
 + Blog
+    + [XDite](http://blog.xdite.net/) Taiwan Rubyist
 
 + Forum
     + [Ruby Forum](http://www.ruby-forum.com/)
