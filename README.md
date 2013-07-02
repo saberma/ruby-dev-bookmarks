@@ -62,6 +62,9 @@
 
 + Tools
     + [Rubular](http://rubular.com) a Ruby regular expression editor
+    + [irbtools](https://github.com/janlelis/irbtools) Collection of IRB improvements
+    + [pry](https://github.com/pry/pry) Alternative Ruby development console
+    + [ripl](https://github.com/cldwalker/ripl) Light and modular alternative to IRB
 
 ## Learning
 
