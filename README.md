@@ -25,6 +25,7 @@
         + [Haml](https://github.com/haml/haml)
         + [Lquid](https://github.com/Shopify/liquid) Liquid markup language. Safe, customer facing template language for flexible web apps.
         + [Rabl](https://github.com/nesquena/rabl) General ruby templating with json, bson, xml, plist and msgpack support
+        + [cells](https://github.com/apotonick/cells) View Components for Rails.
     + Settings
         + [SettingsLogic](https://github.com/binarylogic/settingslogic)
         + [Dotenv](https://github.com/bkeepers/dotenv)
