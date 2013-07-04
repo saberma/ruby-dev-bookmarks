@@ -55,6 +55,7 @@
 
 + Documents
     + [Rails Guide](http://guides.rubyonrails.org/)
+    + [Rails Guides - chinese](http://guides.ruby-china.org)
     + Api
         + [RubyDoc - Ruby](http://rubydoc.info/stdlib/core/frames)
         + [RubyDoc - Rails](http://rubydoc.info/docs/rails/3.2.8/frames)
@@ -69,6 +70,10 @@
     + [irbtools](https://github.com/janlelis/irbtools) Collection of IRB improvements
     + [pry](https://github.com/pry/pry) Alternative Ruby development console
     + [ripl](https://github.com/cldwalker/ripl) Light and modular alternative to IRB
+    + [better_errors](https://github.com/charliesome/better_errors) Better error page for Rails and other Rack apps
+    + SSO
+      + [rubycas-client](https://github.com/rubycas/rubycas-client) an open source enterprise single sign on system for web applications
+      + [rubycas-server](https://github.com/rubycas/rubycas-server) Provides single sign-on authentication for web applications, implementing the server-end of Jasig's CAS protocol
 
 ## Learning
 
