@@ -15,6 +15,9 @@
         + [Fabrication](https://github.com/paulelliott/fabrication)
         + [Appraisal](https://github.com/thoughtbot/appraisal) testing your library against different versions of dependencies.
         + [Webmock](https://github.com/bblimke/webmock) Library for stubbing and setting expectations on HTTP requests 
+        + [spork](https://github.com/sporkrb/spork) make your tests more fast
+        + [guard](https://github.com/guard/guard) a automatic testing tool
+        + [cucumber](https://github.com/cucumber/cucumber)  a integration testing tool
     + Authentication
         + [Devise](https://github.com/plataformatec/devise)
         + [Clearance](https://github.com/thoughtbot/clearance) Rails authentication with email & password
