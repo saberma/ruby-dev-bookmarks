@@ -109,6 +109,7 @@
     + [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
     + [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
     + [Thoughtbot Guide](https://github.com/thoughtbot/guides) A guide for programming in style
+    + [Github Ruby Styleguide](https://github.com/styleguide/ruby)
 
 ## Deployment
 
