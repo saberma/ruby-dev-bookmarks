@@ -117,6 +117,7 @@
 + [New Relic](http://newrelic.com/) Application Performance Management & Monitoring
 + [Travis-CI](https://travis-ci.org/) Free Hosted Continuous Integration Platform for the Open Source Community
 + [Hakiri](https://www.hakiriup.com/) Cloud Security Platform
++ [VersionEye](https://www.versioneye.com/) Notification System for Software Packages
 
 ## How To
 
