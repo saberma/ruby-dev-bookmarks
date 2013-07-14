@@ -64,6 +64,7 @@
         + [RailsAPI](http://railsapi.com/)
     + Test
         + [Rspec Docs](https://www.relishapp.com/rspec/rspec-core/docs)
+        + [Rspec Rails Docs](https://www.relishapp.com/rspec/rspec-rails/docs)
 
 + Tools
     + [Rubular](http://rubular.com) a Ruby regular expression editor
