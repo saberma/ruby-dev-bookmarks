@@ -23,6 +23,7 @@
         + [Clearance](https://github.com/thoughtbot/clearance) Rails authentication with email & password
         + [Cancan](https://github.com/ryanb/cancan) restricts what resources a given user is allowed to access
         + [OmniAuth](https://github.com/intridea/omniauth) Standardized Multi-Provider Authentication
+        + [Rolify](https://github.com/EppO/rolify) Role management library with resource scoping
     + View
         + [Slim](https://github.com/slim-template/slim)
         + [Haml](https://github.com/haml/haml)
