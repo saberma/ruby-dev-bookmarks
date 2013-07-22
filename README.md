@@ -18,6 +18,7 @@
         + [spork](https://github.com/sporkrb/spork) make your tests more fast
         + [guard](https://github.com/guard/guard) a automatic testing tool
         + [cucumber](https://github.com/cucumber/cucumber)  a integration testing tool
+        + [ExceptionNotification](https://github.com/smartinez87/exception_notification) Exception Notifier Plugin for Rails
     + Authentication
         + [Devise](https://github.com/plataformatec/devise)
         + [Clearance](https://github.com/thoughtbot/clearance) Rails authentication with email & password
