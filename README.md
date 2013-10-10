@@ -162,6 +162,7 @@
 
 + Chinese
     + [Ruby-China](https://github.com/ruby-china/ruby-china) ruby-china.org website source code.
+    + [wrtings.io](https://github.com/chloerei/writings) Source code of writings.io
     + [ShopQi](https://github.com/saberma/shopqi) An open source clone of Shopify.
     + [Robbin Site](https://github.com/robbin/robbin_site) robbin's website
     + [Rabel](https://github.com/daqing/rabel) A simple web community software
