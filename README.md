@@ -142,6 +142,7 @@
     + [RubyDaily](http://rubydaily.org/)
 
 + Blog
+    + [Code Climate Blog](http://blog.codeclimate.com/)
     + [XDite](http://blog.xdite.net/) Taiwan Rubyist
 
 + Forum
