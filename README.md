@@ -107,6 +107,7 @@
 + Best Practise
     + [Rails Best Practies](http://rails-bestpractices.com/)
     + [BetterSpecs](http://betterspecs.org/)
+    + [Ruby Talk Tips](http://rubytalktips.com/)
     + [PracticingRuby](https://practicingruby.com/) ($8/month)
     + [Practicing Ruby Manuscripts](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts) Collection of source manuscripts for publicly released Practicing Ruby articles
 
