@@ -8,6 +8,7 @@
     + [RubyToolBox](https://www.ruby-toolbox.com) Which Gems should I use?
     + Form
         + [SimpleForm](https://github.com/plataformatec/simple_form)
+        + [Formtastic](https://github.com/justinfrench/formtastic)
     + Test
         + [Capybara](https://github.com/jnicklas/capybara)
         + [Rspec](https://github.com/rspec/rspec-core)
