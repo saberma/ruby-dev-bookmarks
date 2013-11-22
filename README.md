@@ -53,6 +53,7 @@
         + [Kaminari](https://github.com/amatsuda/kaminari) A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3
     + Security
         + [Hakiri](https://github.com/vasinov/hakiri_cli) Secure Rails with Hakiri
+        + [Rack Attack](https://github.com/kickstarter/rack-attack)
     + Upload
         + [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
 
