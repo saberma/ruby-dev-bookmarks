@@ -32,6 +32,9 @@
         + [Lquid](https://github.com/Shopify/liquid) Liquid markup language. Safe, customer facing template language for flexible web apps.
         + [Rabl](https://github.com/nesquena/rabl) General ruby templating with json, bson, xml, plist and msgpack support
         + [cells](https://github.com/apotonick/cells) View Components for Rails.
+    + CSS
+        + [SCSS](http://sass-lang.com/) CSS with superpowers
+        + [Font Awesome Rails](https://github.com/bokmann/font-awesome-rails) the font-awesome font bundled as an asset for the rails asset pipeline
     + Settings
         + [SettingsLogic](https://github.com/binarylogic/settingslogic)
         + [Dotenv](https://github.com/bkeepers/dotenv)
