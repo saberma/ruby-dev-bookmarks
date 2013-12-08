@@ -30,11 +30,11 @@
     + View
         + [Slim](https://github.com/slim-template/slim)
         + [Haml](https://github.com/haml/haml)
-        + [Lquid](https://github.com/Shopify/liquid) Liquid markup language. Safe, customer facing template language for flexible web apps.
+        + [Liquid](https://github.com/Shopify/liquid) Liquid markup language. Safe, customer facing template language for flexible web apps.
         + [Rabl](https://github.com/nesquena/rabl) General ruby templating with json, bson, xml, plist and msgpack support
-        + [cells](https://github.com/apotonick/cells) View Components for Rails.
+        + [Cells](https://github.com/apotonick/cells) View Components for Rails.
     + CSS
-        + [SCSS](http://sass-lang.com/) CSS with superpowers
+        + [Sass](http://sass-lang.com/) CSS with superpowers
         + [Font Awesome Rails](https://github.com/bokmann/font-awesome-rails) the font-awesome font bundled as an asset for the rails asset pipeline
     + Settings
         + [SettingsLogic](https://github.com/binarylogic/settingslogic)
@@ -69,7 +69,7 @@
         + [RubyDoc - Rails](http://rubydoc.info/docs/rails/3.2.8/frames)
         + [Apidock - Ruby](http://apidock.com/ruby)
         + [Apidock - Rails](http://apidock.com/rails)
-        + [RailsAPI](http://railsapi.com/)
+        + [RailsAPI](http://api.rubyonrails.org/)
     + Test
         + [Rspec Docs](https://www.relishapp.com/rspec/rspec-core/docs)
         + [Rspec Rails Docs](https://www.relishapp.com/rspec/rspec-rails/docs)
@@ -102,13 +102,14 @@
 + Video
     + [Railscasts](http://railscasts.com/)
     + [Railscasts China](http://railscasts-china.com/)
-    + [Peepcode Ruby on Rails](https://peepcode.com/screencasts/ruby-on-rails)
+    + [Peepcode Ruby on Rails](https://peepcode.com/screencasts/ruby-on-rails) Note: Acquired by [Pluralsight](http://pluralsight.com/)
+    + [Ruby Tapas](http://www.rubytapas.com/)
 
 + Online Training
     + [Railsbest](http://railsbest.com/)
     + [Codeschool - Ruby](http://www.codeschool.com/paths/ruby)
     + [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
-    + [RubyMonk](https://rubymonk.com)  interactive ruby tutorials
+    + [RubyMonk](https://rubymonk.com) Interactive ruby tutorials
 
 + Best Practise
     + [Rails Best Practies](http://rails-bestpractices.com/)
@@ -155,6 +156,7 @@
     + [Ruby Forum](http://www.ruby-forum.com/)
     + [Ruby China](http://ruby-china.org) Chinese Ruby Forum
     + [Ruby Taiwan](http://ruby-taiwan.org) Taiwan Ruby Forum
+    + [Rails Forum](https://railsforum.com/)
 
 ## Jobs
 
