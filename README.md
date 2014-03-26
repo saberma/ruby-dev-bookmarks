@@ -48,6 +48,7 @@
         + [ActiveMerchant](https://github.com/Shopify/active_merchant) a simple payment abstraction library extracted from Shopify
     + Deploy
         + [Capistrano](https://github.com/capistrano/capistrano)
+        + [Mina](https://github.com/nadarei/mina)
     + Framework
         + [Sinatra](http://www.sinatrarb.com/) Classy web-development dressed in a DSL
         + [Padrino](http://www.padrinorb.com/) The Elegant Ruby Web Framework
