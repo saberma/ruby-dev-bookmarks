@@ -84,6 +84,7 @@
       + [rubycas-client](https://github.com/rubycas/rubycas-client) an open source enterprise single sign on system for web applications
       + [rubycas-server](https://github.com/rubycas/rubycas-server) Provides single sign-on authentication for web applications, implementing the server-end of Jasig's CAS protocol
     + [Redmine](https://github.com/edavis10/redmine) A flexible and open-source project management web application
+    + [Gitlab](https://github.com/gitlabhq/gitlabhq) A self hosted Git management software, like github but free
 
 ## Learning
 
