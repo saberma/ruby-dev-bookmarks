@@ -179,6 +179,7 @@
     + [Rabel](https://github.com/daqing/rabel) A simple web community software
     + [Code Campo](https://github.com/chloerei/code_campo) Source code of http://codecampo.com
     + [19WU](https://github.com/saberma/19wu) Technology Event Platform, Based on Rails and AngularJS
+    + [happycasts](https://github.com/happypeter/happycasts) Source code of happycasts.net.
 
 ## Other Development Bookmarks
 
