@@ -106,6 +106,7 @@
     + [Railscasts China](http://railscasts-china.com/)
     + [Peepcode Ruby on Rails](https://peepcode.com/screencasts/ruby-on-rails) Note: Acquired by [Pluralsight](http://pluralsight.com/)
     + [Ruby Tapas](http://www.rubytapas.com/)
+    + [happycasts](http://www.happycasts.net/)
 
 + Online Training
     + [Railsbest](http://railsbest.com/)
