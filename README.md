@@ -27,6 +27,7 @@
         + [OmniAuth](https://github.com/intridea/omniauth) Standardized Multi-Provider Authentication
         + [Rolify](https://github.com/EppO/rolify) Role management library with resource scoping
         + [TheRole](https://github.com/the-teacher/the_role) Authorization with administrative interface
+        + [Sorcery](https://github.com/NoamB/sorcery) Magical authentication for Rails 3 & 4
     + View
         + [Slim](https://github.com/slim-template/slim)
         + [Haml](https://github.com/haml/haml)
@@ -36,6 +37,7 @@
     + CSS
         + [Sass](http://sass-lang.com/) CSS with superpowers
         + [Font Awesome Rails](https://github.com/bokmann/font-awesome-rails) the font-awesome font bundled as an asset for the rails asset pipeline
+        + [Bourbon](https://github.com/thoughtbot/bourbon)A lightweight mixin library for Sass
     + Settings
         + [SettingsLogic](https://github.com/binarylogic/settingslogic)
         + [Dotenv](https://github.com/bkeepers/dotenv)
