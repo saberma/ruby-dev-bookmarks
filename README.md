@@ -94,6 +94,7 @@
 
 + Hello World
     + [Try Ruby Online](http://tryruby.org)
+    + [Ruby Koans](http://rubykoans.com/) The Koans walk you along the path to enlightenment in order to learn Ruby
 
 + Book
     + [Programming Ruby](http://pragprog.com/book/ruby/programming-ruby)
