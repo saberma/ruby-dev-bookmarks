@@ -23,11 +23,12 @@
     + Authentication
         + [Devise](https://github.com/plataformatec/devise)
         + [Clearance](https://github.com/thoughtbot/clearance) Rails authentication with email & password
-        + [Cancan](https://github.com/ryanb/cancan) restricts what resources a given user is allowed to access
         + [OmniAuth](https://github.com/intridea/omniauth) Standardized Multi-Provider Authentication
+        + [Sorcery](https://github.com/NoamB/sorcery) Magical authentication for Rails 3 & 4
+    + Authorization
+        + [Cancancan](https://github.com/CanCanCommunity/cancancan) CanCan is an authorization library for Ruby on Rails which restricts what resources a given user is allowed to access.This repo is a continuation of the dead CanCan project. Our mission is to keep CanCan alive and moving forward, with maintenance fixes and new features.
         + [Rolify](https://github.com/EppO/rolify) Role management library with resource scoping
         + [TheRole](https://github.com/the-teacher/the_role) Authorization with administrative interface
-        + [Sorcery](https://github.com/NoamB/sorcery) Magical authentication for Rails 3 & 4
     + View
         + [Slim](https://github.com/slim-template/slim)
         + [Haml](https://github.com/haml/haml)
