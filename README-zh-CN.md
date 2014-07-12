@@ -13,4 +13,4 @@ Sorcery 提供最小化的登录注册接口，良好的模块化设计使得定
 开发环境下，调试邮件发送及内容比较麻烦，使用 [Letter Opener](https://github.com/ryanb/letter_opener) 会将邮件内容保存在本地文件，不进行发送，而是直接打开浏览器显示邮件的内容，方便调试。
 [Letter Opener Web] 则在其基础上提供邮件列表查看功能。
 
-![image](https://cloud.githubusercontent.com/assets/15178/3562021/05828842-09dc-11e4-879d-5d4b9014d9d2.png)
+![image](https://raw.githubusercontent.com/sunny/letter_opener_web/dd5e4242664967ab206d5118ce55c3220ab1bdac/demo/screenshot.png)
