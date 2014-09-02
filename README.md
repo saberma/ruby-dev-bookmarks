@@ -60,6 +60,7 @@
     + Pagination
         + [Kaminari](https://github.com/amatsuda/kaminari) A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3
     + Security
+        + [Brakeman](https://github.com/presidentbeef/brakeman) A static analysis security vulnerability scanner for Ruby on Rails applications
         + [Hakiri](https://github.com/vasinov/hakiri_cli) Secure Rails with Hakiri
         + [Rack Attack](https://github.com/kickstarter/rack-attack)
     + Upload
